@@ -1,6 +1,8 @@
 RENCANA KONTEN JAMIL
 
 -Javascript
+ *ES6
+ *Java Frameworks
 -PHP Frameworks
 -Interview
 -Vlogs
