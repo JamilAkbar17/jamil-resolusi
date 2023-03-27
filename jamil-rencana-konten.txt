@@ -3,7 +3,10 @@ RENCANA KONTEN JAMIL
 -Javascript
  *ES6
  *Java Frameworks
+  ^Vue
 -Struktur data dasar
 -PHP Frameworks
+ ^Laravel
 -Interview
 -Vlogs
+-Python
