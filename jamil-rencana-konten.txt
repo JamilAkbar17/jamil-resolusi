@@ -4,6 +4,7 @@ RENCANA KONTEN JAMIL
  *ES6
  *Java Frameworks
   ^Vue
+  ^React
 -Struktur data dasar
 -PHP Frameworks
  ^Laravel
